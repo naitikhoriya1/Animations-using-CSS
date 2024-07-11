@@ -11,6 +11,8 @@ h1 {
   text-align: center;
   display: block;
   font-size: 60px;
+  color: #fff;
+  background-color: rgb(34, 84, 34);
 }
 *,
 *::before,
